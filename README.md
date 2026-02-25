@@ -1,2 +1,2 @@
-# Profissional-tech
-Programa que interliga oficina loja e serviços de manutenção geral com mobile em tempo real 
+# Serviço & Recibo
+Sistema profissional de gestão de serviços e recibos
